@@ -1,7 +1,7 @@
 {
-  "name": "operation_ticket",
+  "name": "vuepress-template",
   "version": "1.0.0",
-  "description": "剧情模式工单",
+  "description": "工单",
   "license": "MIT",
   "scripts": {
     "docs:build": "vuepress build docs",
