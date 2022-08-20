@@ -19,9 +19,9 @@ export default defineComponent({
     console.log(pages)
     var page = pages.at(theRandomNumber)
     console.log(page)
-    var url = page.path
+    var url = '/Vuepress-template' + page.path
     console.log(url)
-    window.location.href = '/Vuepress-template' + url
+    //window.location.href = url
   },
 })
 </script>
