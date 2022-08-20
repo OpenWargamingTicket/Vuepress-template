@@ -21,7 +21,7 @@ export default defineComponent({
     console.log(page)
     var url = '/Vuepress-template' + page.path
     console.log(url)
-    window.open(url)
+    window.location.href = url
   },
 })
 </script>
