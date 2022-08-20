@@ -6,7 +6,7 @@ module.exports = {
     lang: "zh-CN",
     title: "OpenWGTicket",
     description: "OpenWGTicket",
-    base: /Vuepress-template/,
+    base: '/Vuepress-template/',
     plugins: [
       usePagesPlugin(
         {
