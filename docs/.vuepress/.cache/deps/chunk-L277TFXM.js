@@ -42,6 +42,12 @@ var init_define_CODE_DEMO_OPTIONS = __esm({
   }
 });
 
+// <define:COMMENT_OPTIONS>
+var init_define_COMMENT_OPTIONS = __esm({
+  "<define:COMMENT_OPTIONS>"() {
+  }
+});
+
 // <define:MERMAID_OPTIONS>
 var init_define_MERMAID_OPTIONS = __esm({
   "<define:MERMAID_OPTIONS>"() {
@@ -78,6 +84,12 @@ var init_define_REVEAL_CONFIG = __esm({
   }
 });
 
+// <define:WALINE_LOCALES>
+var init_define_WALINE_LOCALES = __esm({
+  "<define:WALINE_LOCALES>"() {
+  }
+});
+
 // <define:__EXTERNAL_LINK_ICON_LOCALES__>
 var init_define_EXTERNAL_LINK_ICON_LOCALES = __esm({
   "<define:__EXTERNAL_LINK_ICON_LOCALES__>"() {
@@ -92,12 +104,14 @@ export {
   init_define_CODE_COPY_LOCALES,
   init_define_CODE_COPY_OPTIONS,
   init_define_CODE_DEMO_OPTIONS,
+  init_define_COMMENT_OPTIONS,
   init_define_MERMAID_OPTIONS,
   init_define_PHOTO_SWIPE_LOCALES,
   init_define_PHOTO_SWIPE_OPTIONS,
   init_define_PLAYGROUND_OPTIONS,
   init_define_READING_TIME_LOCALES,
   init_define_REVEAL_CONFIG,
+  init_define_WALINE_LOCALES,
   init_define_EXTERNAL_LINK_ICON_LOCALES
 };
-//# sourceMappingURL=chunk-3IJSH5BN.js.map
+//# sourceMappingURL=chunk-L277TFXM.js.map

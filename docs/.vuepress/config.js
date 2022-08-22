@@ -41,9 +41,17 @@ module.exports = {
           config: {
             "/guide/encrypt.html": ["1234"],
           },
-        },
-      
+        },    
         plugins: {
+
+          comment: {
+            provider: "Giscus",
+            repo: "OpenWargamingTicket/Discussions",
+            repoId: "R_kgDOH2pMHg",
+            category: "Announcements",
+            categoryId: "DIC_kwDOH2pMHs4CQ8Xo",
+          },
+
           mdEnhance: {
             enableAll: true,
             presentation: {
