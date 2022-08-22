@@ -15,13 +15,13 @@ module.exports = {
       ),
     ],
     theme: hopeTheme({
-        hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+        hostname: "https://openwargamingticket.github.io/Vuepress-template/",
 
         iconAssets: "iconfont",
       
         logo: "/logo.svg",
       
-        repo: "vuepress-theme-hope/vuepress-theme-hope",
+        repo: "OpenWargamingTicket/Vuepress-template",
       
         docsDir: "demo/src",
       
